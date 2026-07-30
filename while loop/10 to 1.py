@@ -1,9 +1,5 @@
-n = 10
-sum = 0
+i =  20
 
-while n > 0:
-    print(n)
-    sum = sum +n;
-    n-=1
-
-print(sum)
+while i>=1:
+    print(i)
+    i -= 1
